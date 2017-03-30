@@ -12,7 +12,7 @@ var NatanPlugin = exports.NatanPlugin = function () {
     function NatanPlugin() {
         _classCallCheck(this, NatanPlugin);
 
-        this.firstName = "Hopa";
+        this.firstName = "Neatenl - Hopa";
         this.lastName = "Yacht";
         this.people = [];
         this.editing = undefined;
