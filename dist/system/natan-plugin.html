@@ -1,3 +1,71 @@
 <template>
-  Hello, world! My name is Netanel Murciano !!!! this is a new repository !!!sssss
+
+  <div class="container">
+
+    <b>Full Name:</b> <span>${fullName}</span>
+
+    <br/><br/>
+    <form class="form-inline">
+
+      <label>First Name:</label>
+
+      <input type="text" value.bind="firstName" class="form-control" />
+
+      <label>Last Name:</label>
+
+      <input type="text" value.bind="lastName" class="form-control" />
+
+      <button class="btn btn-create" click.trigger="create()">Create</button>
+
+      <br/><br/>
+
+
+    </form>
+
+  </div>
+
+
+
+  <div class="container">
+
+    <ul>
+
+      <li repeat.for="person of people">
+
+        <span show.bind="$parent.editing !== $index">
+
+        ${person}
+
+        <button click.trigger="$parent.edit($index)">Edit</button>
+
+          </span>
+
+        <span show.bind="$parent.editing === $index">
+
+          <input type="text" value.bind="$parent.newValue" />
+
+        <button click.trigger="$parent.save($index)">Save</button>
+
+
+
+
+
+          </span>
+
+        <button click.trigger="$parent.delete($index)">Delete</button>
+
+      </li>
+
+    </ul>
+
+
+
+  </div>
+
+
+  <input type="checkbox" ref="rescursive">
+
+  <friends if.bind="rescursive.checked"></friends>
+
+
 </template>
