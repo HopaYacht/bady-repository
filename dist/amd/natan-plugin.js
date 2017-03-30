@@ -33,8 +33,8 @@ define(["exports"], function (exports) {
         function NatanPlugin() {
             _classCallCheck(this, NatanPlugin);
 
-            this.firstName = "Netanel";
-            this.lastName = "Murciano";
+            this.firstName = "Hopa";
+            this.lastName = "Yacht";
             this.people = [];
             this.editing = undefined;
         }
