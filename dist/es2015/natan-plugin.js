@@ -2,7 +2,7 @@ export let NatanPlugin = class NatanPlugin {
 
     constructor() {
         this.firstName = "Netanel Murciano";
-        this.lastName = "Yacht";
+        this.lastName = "this is Kfir branch";
         this.people = [];
         this.editing = undefined;
     }
