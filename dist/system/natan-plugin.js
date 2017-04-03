@@ -36,8 +36,8 @@ System.register([], function (_export, _context) {
                 function NatanPlugin() {
                     _classCallCheck(this, NatanPlugin);
 
-                    this.firstName = "Netanel Murciano";
-                    this.lastName = "this is Kfir branch";
+                    this.firstName = "Netanel ";
+                    this.lastName = "Mrciano";
                     this.people = [];
                     this.editing = undefined;
                 }
