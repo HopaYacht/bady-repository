@@ -13,7 +13,7 @@ var NatanPlugin = exports.NatanPlugin = function () {
         _classCallCheck(this, NatanPlugin);
 
         this.firstName = "Netanel Murciano";
-        this.lastName = "Yacht";
+        this.lastName = "this is Kfir branch";
         this.people = [];
         this.editing = undefined;
     }
