@@ -1,6 +1,6 @@
 
-export * from './natan-plugin';
+export * from './ariel-plugin';
 
 export function configure(config) {
-  config.globalResources('./natan-plugin');
+  config.globalResources('./ariel-plugin');
 }
