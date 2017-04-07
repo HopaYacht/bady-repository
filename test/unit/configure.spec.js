@@ -15,7 +15,7 @@ describe('the Aurelia configuration', () => {
   });
 
   it('should register a global resource', () => {
-    expect(mockedConfiguration.resources).toContain('./ariel-plugin');
+    expect(mockedConfiguration.resources).toContain('./hadar-plugin');
   });
 
 });

@@ -1,20 +1,20 @@
 'use strict';
 
-System.register(['./ariel-plugin'], function (_export, _context) {
+System.register(['./hadar-plugin'], function (_export, _context) {
   "use strict";
 
   function configure(config) {
-    config.globalResources('./ariel-plugin');
+    config.globalResources('./hadar-plugin');
   }
 
   _export('configure', configure);
 
   return {
-    setters: [function (_arielPlugin) {
+    setters: [function (_hadarPlugin) {
       var _exportObj = {};
 
-      for (var _key in _arielPlugin) {
-        if (_key !== "default" && _key !== "__esModule") _exportObj[_key] = _arielPlugin[_key];
+      for (var _key in _hadarPlugin) {
+        if (_key !== "default" && _key !== "__esModule") _exportObj[_key] = _hadarPlugin[_key];
       }
 
       _export(_exportObj);

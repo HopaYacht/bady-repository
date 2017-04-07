@@ -1,6 +1,6 @@
 
-export * from './ariel-plugin';
+export * from './hadar-plugin';
 
 export function configure(config){
-  config.globalResources('./ariel-plugin');
+  config.globalResources('./hadar-plugin');
 }

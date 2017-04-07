@@ -3,7 +3,7 @@
 System.register([], function (_export, _context) {
   "use strict";
 
-  var ArielPlugin;
+  var HadarPlugin;
 
   function _classCallCheck(instance, Constructor) {
     if (!(instance instanceof Constructor)) {
@@ -14,11 +14,11 @@ System.register([], function (_export, _context) {
   return {
     setters: [],
     execute: function () {
-      _export("ArielPlugin", ArielPlugin = function ArielPlugin() {
-        _classCallCheck(this, ArielPlugin);
+      _export("HadarPlugin", HadarPlugin = function HadarPlugin() {
+        _classCallCheck(this, HadarPlugin);
       });
 
-      _export("ArielPlugin", ArielPlugin);
+      _export("HadarPlugin", HadarPlugin);
     }
   };
 });

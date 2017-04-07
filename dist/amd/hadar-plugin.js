@@ -11,7 +11,7 @@ define(["exports"], function (exports) {
     }
   }
 
-  var ArielPlugin = exports.ArielPlugin = function ArielPlugin() {
-    _classCallCheck(this, ArielPlugin);
+  var HadarPlugin = exports.HadarPlugin = function HadarPlugin() {
+    _classCallCheck(this, HadarPlugin);
   };
 });

@@ -4,18 +4,18 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _arielPlugin = require('./ariel-plugin');
+var _hadarPlugin = require('./hadar-plugin');
 
-Object.keys(_arielPlugin).forEach(function (key) {
+Object.keys(_hadarPlugin).forEach(function (key) {
   if (key === "default" || key === "__esModule") return;
   Object.defineProperty(exports, key, {
     enumerable: true,
     get: function get() {
-      return _arielPlugin[key];
+      return _hadarPlugin[key];
     }
   });
 });
 exports.configure = configure;
 function configure(config) {
-  config.globalResources('./ariel-plugin');
+  config.globalResources('./hadar-plugin');
 }
