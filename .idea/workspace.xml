@@ -2,23 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c67b262-0911-4aa1-b4f9-a1e8cf24cef7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hadar-plugin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hadar-plugin.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/amd/ariel-plugin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/amd/ariel-plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/commonjs/ariel-plugin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/commonjs/ariel-plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/es2015/ariel-plugin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/es2015/ariel-plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/system/ariel-plugin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/system/ariel-plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ariel-plugin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ariel-plugin.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bady-plugin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bady-plugin.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/amd/hadar-plugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/amd/hadar-plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/amd/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/commonjs/hadar-plugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/commonjs/hadar-plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/commonjs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/es2015/hadar-plugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/es2015/hadar-plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/es2015/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/system/hadar-plugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/system/hadar-plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/system/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/hadar-plugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/hadar-plugin.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/amd/index.js" afterPath="$PROJECT_DIR$/dist/amd/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/commonjs/index.js" afterPath="$PROJECT_DIR$/dist/commonjs/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/es2015/index.js" afterPath="$PROJECT_DIR$/dist/es2015/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/system/index.js" afterPath="$PROJECT_DIR$/dist/system/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/configure.spec.js" afterPath="$PROJECT_DIR$/test/unit/configure.spec.js" />
     </list>
@@ -42,54 +43,49 @@
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+              <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hadar-plugin.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hadar-plugin.js">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="59" column="6" lean-forward="true" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bady-plugin.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bady-plugin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bady-plugin.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bady-plugin.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
               <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
               <folding>
-                <element signature="n#!!doc;n#HadarPlugin#0" expanded="false" />
+                <element signature="n#!!doc;n#BadyPlugin#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hadar-plugin.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hadar-plugin.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/system/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="16" />
-              <folding>
-                <marker date="1491554062345" expanded="true" signature="417:438" ph="{...}" />
-                <marker date="1491554062345" expanded="true" signature="417:472" ph="{...}" />
-                <marker date="1491554062345" expanded="true" signature="417:473" ph="[...]" />
-                <marker date="1491554062345" expanded="true" signature="417:509" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="configure.spec.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="configure.spec.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/unit/configure.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="60" lean-forward="false" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+            <state relative-caret-position="144">
+              <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -100,8 +96,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -115,9 +111,12 @@
         <option value="$PROJECT_DIR$/src/natan-plugin.html" />
         <option value="$PROJECT_DIR$/src/ariel-plugin.js" />
         <option value="$PROJECT_DIR$/src/ariel-plugin.html" />
-        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/hadar-plugin.html" />
         <option value="$PROJECT_DIR$/src/hadar-plugin.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/bady-plugin.js" />
+        <option value="$PROJECT_DIR$/src/bady-plugin.html" />
+        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/test/unit/configure.spec.js" />
       </list>
     </option>
@@ -157,26 +156,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hadar-repository" />
+              <option name="myItemId" value="bady-repository" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hadar-repository" />
+              <option name="myItemId" value="bady-repository" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hadar-repository" />
+              <option name="myItemId" value="bady-repository" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hadar-repository" />
+              <option name="myItemId" value="bady-repository" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -186,11 +186,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hadar-repository" />
+              <option name="myItemId" value="bady-repository" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hadar-repository" />
+              <option name="myItemId" value="bady-repository" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -204,11 +204,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hadar-repository" />
+              <option name="myItemId" value="bady-repository" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hadar-repository" />
+              <option name="myItemId" value="bady-repository" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -218,7 +218,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,11 +313,12 @@
       <workItem from="1491203746507" duration="60000" />
       <workItem from="1491400116475" duration="542000" />
       <workItem from="1491553789500" duration="429000" />
+      <workItem from="1491673562733" duration="225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3942000" />
+    <option name="totallyTimeSpent" value="4167000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -363,14 +363,47 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ariel-plugin.html">
+    <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        <state relative-caret-position="72">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/hadar-plugin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hadar-plugin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/system/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/configure.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ariel-plugin.html" />
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -383,12 +416,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="16" />
-          <folding>
-            <marker date="1491554062345" expanded="true" signature="417:438" ph="{...}" />
-            <marker date="1491554062345" expanded="true" signature="417:472" ph="{...}" />
-            <marker date="1491554062345" expanded="true" signature="417:473" ph="[...]" />
-            <marker date="1491554062345" expanded="true" signature="417:509" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -400,14 +428,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ariel-plugin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ariel-plugin.js" />
     <entry file="file://$PROJECT_DIR$/src/natan-plugin.js" />
     <entry file="file://$PROJECT_DIR$/src/natan-plugin.html" />
     <entry file="file://$PROJECT_DIR$/src/natan-plugin.js" />
@@ -434,39 +455,12 @@
     <entry file="file://$PROJECT_DIR$/src/natan-plugin.html" />
     <entry file="file://$PROJECT_DIR$/src/natan-plugin.html" />
     <entry file="file://$PROJECT_DIR$/src/natan-plugin.js" />
-    <entry file="file://$PROJECT_DIR$/src/ariel-plugin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ariel-plugin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ariel-plugin.html" />
+    <entry file="file://$PROJECT_DIR$/src/ariel-plugin.js" />
     <entry file="file://$PROJECT_DIR$/dist/system/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="16" />
-          <folding>
-            <marker date="1491554062345" expanded="true" signature="417:438" ph="{...}" />
-            <marker date="1491554062345" expanded="true" signature="417:472" ph="{...}" />
-            <marker date="1491554062345" expanded="true" signature="417:473" ph="[...]" />
-            <marker date="1491554062345" expanded="true" signature="417:509" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -483,16 +477,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bady-plugin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding>
-            <element signature="n#!!doc;n#HadarPlugin#0" expanded="false" />
+            <element signature="n#!!doc;n#BadyPlugin#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bady-plugin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/unit/configure.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="60" lean-forward="false" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        <state relative-caret-position="144">
+          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="59" column="6" lean-forward="true" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
           <folding />
         </state>
       </provider>

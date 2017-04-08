@@ -1,6 +1,6 @@
 
-export * from './hadar-plugin';
+export * from './bady-plugin';
 
 export function configure(config){
-  config.globalResources('./hadar-plugin');
+  config.globalResources('./bady-plugin');
 }

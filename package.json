@@ -1,5 +1,5 @@
 {
-  "name": "aurelia-skeleton-plugin",
+  "name": "hopayacht-bady-plugin"0,
   "version": "1.0.1",
   "description": "A starter kit for building an Aurelia plugin.",
   "keywords": [
@@ -9,14 +9,14 @@
   ],
   "homepage": "http://aurelia.io",
   "bugs": {
-    "url": "https://github.com/aurelia/skeleton-plugin/issues"
+    "url": "https://github.com/HopaYacht/bady-repository/issues"
   },
   "license": "CC0-1.0",
-  "author": "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)",
+  "author": "Netanel Murciano <rob@bluespire.com> (http://robeisenberg.com/)",
   "main": "dist/commonjs/index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/aurelia/skeleton-plugin"
+    "url": "https://github.com/HopaYacht/bady-repository"
   },
   "devDependencies": {
     "aurelia-tools": "^1.0.0",
