@@ -1,5 +1,5 @@
 {
-  "name": "hopayacht-bady-plugin"0,
+  "name": "hopayacht-bady-plugin",
   "version": "1.0.1",
   "description": "A starter kit for building an Aurelia plugin.",
   "keywords": [
@@ -9,7 +9,7 @@
   ],
   "homepage": "http://aurelia.io",
   "bugs": {
-    "url": "https://github.com/HopaYacht/bady-repository/issues"
+    "url": "https://github.com/HopaYacht/bady-repository"
   },
   "license": "CC0-1.0",
   "author": "Netanel Murciano <rob@bluespire.com> (http://robeisenberg.com/)",
